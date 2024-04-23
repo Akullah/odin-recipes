@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic project that demonstrates my understanding of HTML syntax which inludes HTML elements, HTML attributes, HTML links among  other skills. The project is a simple recipe website that incluldes all the above.
