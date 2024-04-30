@@ -1,0 +1,14 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+  .bold {
+    background-color: rgb(89, 236, 162);
+    color: hsl(96, 77%, 62%);
+    font-weight: 800;
+    font-size: 22px;
+
+  }
+
+ 
