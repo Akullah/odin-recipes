@@ -1,0 +1,16 @@
+.h1 {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+    text-align: center;
+  }
+
+  .button {
+    background: rgb(102, 156, 236);
+    border: 1px solid #eee;
+    margin: 0 auto;
+    padding: 8px 24px;
+    text-align: center;
+  }
+  
